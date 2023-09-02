@@ -1,0 +1,42 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    width: 70%;
+    margin: auto;
+}
+h2{
+    color: rgb(35, 226, 108);
+   
+}
+h1, h2, h3, h4, h5, h6{
+    margin-top: 5px;
+    margin-bottom: 5x;
+}
+.input-texto{
+    /* Espaço dentro da TextField */
+    padding: 7px;
+    margin-bottom: 5px;
+    border: 3px, rgb(59, 133, 11);
+}
+.div1{
+    width: 500px;
+    height: 150px;
+    background-color: black;
+}
+.div2{
+    width: 300px;
+    height: 100px;
+    background-color: chartreuse;
+}
+
+table{
+    background-color: darkcyan;
+}
+th{
+    color:white;
+}
+button{
+    padding: 5px;
+    background-color: darkseagreen;
+    color: white;
+    border: 2px solid rgb(141, 57, 57);
+}
